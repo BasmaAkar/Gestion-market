@@ -1,7 +1,7 @@
 **L'objectif :**
 
 Réaliser une application Desktop permettant de gérer l'activité commerciale d'une entreprise .
-toute en utilisant une solution WinForms avec C#
+toute en utilisant une solution WinForms , C# , Sql Server
 
 **Modèle de données :**
 ![image](https://github.com/BasmaAkar/Gestion-market/assets/101791324/d284685c-bde1-466e-bb96-577774e07fb6)
